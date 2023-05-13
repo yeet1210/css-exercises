@@ -1,0 +1,19 @@
+#evenma{
+color: blue;
+font-size: 36px;
+}
+
+#anotherid{
+    background-color: rgb(159, 224, 159);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd{
+    background-color:rgb(230, 120, 120) ;
+    font-family: 'Verdena','DejaVu Sans','sans-serif';
+}
+
+.odd.special{
+    font-size: 24px;
+}
